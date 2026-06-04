@@ -63,25 +63,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🚀 Featured Systems & Core Architecture
-
-> 🏦 **Bankify**  
-> *A secure virtual banking platform engineered with robust data modeling to track synchronized transaction histories, real-time balances, and automated ledger entries.*  
-> <p align="left">
->   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
->   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
->   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
->   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-> </p>
-
-> 🤖 **GenAI Platform**  
-> *An intelligent generative AI engine interface focusing on prompt optimization schemas, responsive frontend streaming states, and custom visual layouts for user-prompt execution.*  
-> <p align="left">
->   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
->   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
->   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
->   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-> </p>
 
 ### 🤝 Connect with me:
 
